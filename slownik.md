@@ -5,7 +5,7 @@
 - KLIKA - podgraf który jest pełny.
 - GRAF DWUDZIELNY - graf którego wierzchołki można podzielić na dwa zbiory, z czego żaden wierzchołek nie posiada krawędzi łączących go z innym wierzchołkiem należącym do tego samego zbioru.
 - MARSZRUTA - taki ciąg krawędzi, że dany wierzchołek jest w dwóch kolejnych krawędziach, np. ({v0, v1}, {v1, v2}, {v2, v3}, ..., {vn-1, vn})
-ŚCIEŻKA - taka marszruta, że v0 != v1 != v2 != v3 != ... != vn-1 != vn
+- ŚCIEŻKA - taka marszruta, że v0 != v1 != v2 != v3 != ... != vn-1 != vn
 - CYKL - taka marszruta, że v0 != v1 != v2 != v3 != ... != vn-1, ale v0 = vn
 - KOŁO - graf utworzony z cyklu w taki sposób, że dodajemy wierzchołek i łączymy go z resztą wierzchołków.
 - GRAF ACYKLICZNY - graf który nie posiada podgrafu który jest cyklem.
@@ -23,9 +23,9 @@
 - KOLOROWANIE KRAWĘDZIOWE - przyporządkowanie wszystkim krawędziom numeru (koloru), tak żeby żadne dwie krawędzie połączone z danym wierzchołkiem nie miały tego samego koloru.
 - INDEKS CHROMATYCZNY - najmniejsza liczba kolorów konieczna do pokolorowania krawędziowego grafu. Oznaczana przez Xkrzywe'(G)
 - CYKL HAMILTONA - cykl przechodzący przez każdy wierzchołek grafu.
-ŚCIEŻKA HAMILTONA - ścieżka przechodząca przez każdy wierzchołek grafu.
+- ŚCIEŻKA HAMILTONA - ścieżka przechodząca przez każdy wierzchołek grafu.
 - CYKL EULERA - cykl przechodzący przez każdą krawędź grafu.
-ŚCIEŻKA EULERA - ścieżka przechodząca przez każdą krawędź grafu.
+- ŚCIEŻKA EULERA - ścieżka przechodząca przez każdą krawędź grafu.
 - GRAF HAMILTONOWSKI - graf zawierający cykl Hamiltona.
 - GRAF PÓŁHAMILTONOWSKI - graf zawierający ścieżkę Hamiltona.
 - GRAF EULEROWSKI - graf zawierający cykl Eulera.
