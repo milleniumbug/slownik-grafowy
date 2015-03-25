@@ -9,9 +9,13 @@ Czy zdarzyło ci się kiedyś że czytasz jakiś problem grafowy, po czym napoty
 
 Celem jest natomiast stworzenie takiej ściągawki grafowej, żebyś mógł przeczytać sobie na szybko od początku do końca, i w miarę szybko ogarnął najczęstsze definicje. Dlatego dana definicja będzie się mogła odwoływać tylko do definicji przedstawionych wcześniej w słowniku.
 
-Przypomnienie
+Założenia i cele
 ---
+
+Przede wszystkim kieruj się regułą KISS (Keep It Simple, Stupid).
 
 Definicje nie są przedstawione w kolejności alfabetycznej. I nie mają być. Jak chcesz je mieć w kolejności alfabetycznej, TO JE SE POSORTUJ.
 
 Nie dodawaj definicji które wymagają znajomości słówek nie przedstawionych wcześniej w słowniku. Oraz, co wynika z poprzedniego zdania, nie dodawaj cykli do słownika. 
+
+Nie wklejaj kilkunastostronnicowej definicji. To nie Wikipedia. Im krótsza definicja, tym lepiej. Dodawaj notację matematyczną tylko jeżeli skróci to definicje bez zbędnego motania.
