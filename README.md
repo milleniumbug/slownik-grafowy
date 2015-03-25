@@ -1,0 +1,1 @@
+# slownik-grafowy
