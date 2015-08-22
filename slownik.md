@@ -38,3 +38,4 @@
 - RZĄD GRAFU - liczba wierzchołków w grafie.
 - LIŚĆ - wierzchołek stopnia 1 w drzewie.
 - GWIAZDA - takie drzewo, że co najwyżej jeden wierzchołek nie jest liściem.
+- K-ta LICZBA RAMSEYA - najmniejsza liczba wierzchołków grafu taka, że przy dowolnym kolorowaniu krawędzi takiego grafu na dwa kolory, zawsze znajdziemy k-elementową klikę wierzchołków połączonych krawędziami jednego z tych dwóch kolorów 
